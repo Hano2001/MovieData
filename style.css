@@ -14,6 +14,9 @@ body {
   padding: 5px;
   list-style: none;
 }
+.info li .handling {
+  float: right;
+}
 
 #container {
   display: grid;
